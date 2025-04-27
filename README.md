@@ -1,4 +1,4 @@
-# GMR Health-Care Chatbot: Enhancing Medical Assistance with AI 🌐🩺
+# Health-Care Chatbot: Enhancing Medical Assistance with AI 🌐🩺
 
 ## Overview
 
